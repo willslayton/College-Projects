@@ -1,0 +1,1 @@
+An assignment for my Computer Architecture (CEC470) class, create instruction decoder which acts as a simulated CPU, which can be given instruction and manipulate memory.

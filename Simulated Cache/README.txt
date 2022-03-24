@@ -1,0 +1,1 @@
+A simulated cache in C++ to test the hit/miss rate of different caching algorithms as a project for my Computer Architecture (CEC470) class. Portions of this code were also provided by the professor, but the algorithm implementations themselves were written by me.
